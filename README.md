@@ -1,4 +1,4 @@
-### Hi there 👋
+### Juseob's github 👋
 
 <!--
 **wntjq68/wntjq68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
