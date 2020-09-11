@@ -1,17 +1,17 @@
 ### Juseob's github
 
-- 🔭 **I’m currently working on ...**
+- :herb: **현재 진행중인 작업...**
 
-  1. NubeX Talk : android mobile messenger  Project (private)
+  1. NubeX Talk : 안드로이드 의료분야 폐쇄형 메신저 (private)
 
   
-- 🌱 **I’m currently learning ...**
+- 🌱 **현재 공부하고 관심있는 것들...**
 
-  1. Algorithm learning [algorithm-learn](https://github.com/wntjq68/android-learn)
+  1. 알고리즘과 JAVA 언어 ([algorithm-learn](https://github.com/wntjq68/android-learn))
 
-  2. Android develop learning [android-learn](https://github.com/wntjq68/android-learn)
+  2. 안드로이드 개발 ([android-learn](https://github.com/wntjq68/android-learn))
 
-  3. Server develop learning [server-learn](https://github.com/wntjq68/server-learn)
+  3. 서버 개발 ([server-learn](https://github.com/wntjq68/server-learn))
 
 <!--
     **wntjq68/wntjq68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
