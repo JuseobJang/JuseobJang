@@ -7,7 +7,7 @@
   
 - 🌱 **현재 공부하고 관심있는 것들...**
 
-  1. 알고리즘과 JAVA 언어 ([algorithm-learn](https://github.com/wntjq68/android-learn))
+  1. 알고리즘과 JAVA 언어 ([algorithm-learn](https://github.com/wntjq68/algorithm-learn))
 
   2. 안드로이드 개발 ([android-learn](https://github.com/wntjq68/android-learn))
 
