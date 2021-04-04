@@ -1,4 +1,4 @@
-<h1 align="center">It's Juseob's github.</h1>
+<h1 align="left">Juseob's github.</h1>
 
 <h3 align="left">Languages and Tools:</h3>
 
