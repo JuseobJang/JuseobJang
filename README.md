@@ -9,9 +9,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wntjq68&theme=dracula" alt="wntjq68" /></p>
 
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=wntjq68)](https://solved.ac/wntjq68)
-
-
 
 <!--
     **wntjq68/wntjq68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
