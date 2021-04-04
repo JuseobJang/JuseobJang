@@ -1,17 +1,13 @@
-### Juseob's github
+<h1 align="center">It's Juseob's github.</h1>
 
-- :herb: **현재 진행중인 작업...**
+<h3 align="left">Languages and Tools:</h3>
 
-  1. NubeX Talk : 안드로이드 의료분야 폐쇄형 메신저 (private)
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://realm.io/" target="_blank"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> </p>
 
-  
-- 🌱 **현재 공부하고 관심있는 것들...**
 
-  1. 알고리즘과 JAVA 언어 ([algorithm-learn](https://github.com/wntjq68/algorithm-learn))
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wntjq68&show_icons=true&locale=en" alt="wntjq68" /></p>
 
-  2. 안드로이드 개발 ([android-learn](https://github.com/wntjq68/android-learn))
-
-  3. 서버 개발 ([server-learn](https://github.com/wntjq68/server-learn))
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wntjq68&" alt="wntjq68" /></p>
 
 <!--
     **wntjq68/wntjq68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
