@@ -1,7 +1,7 @@
 <h1 align="left">Juseob's github.</h1>
 
-- I’m currently working on [CS-study](https://github.com/Seogeurim/CS-study)
-- I’m currently learning [algoritm-learn](https://github.com/wntjq68/algorithm-learn)
+- I’m currently learning [CS-study](https://github.com/Seogeurim/CS-study)
+- I’m currently learning [algoritm-study](https://github.com/wntjq68/algorithm-learn)
 - I worked on [NubeXTalk for Android](https://github.com/cjddydchgod1/NubeXTalkforAndroid)
 
 
