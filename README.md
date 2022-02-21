@@ -1,9 +1,9 @@
 <h1 align="left">Juseob's github.</h1>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wntjq68&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuseobJang&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wntjq68&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JuseobJang&theme=dracula)](https://git.io/streak-stats)
 
 
 
